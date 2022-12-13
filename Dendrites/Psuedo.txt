@@ -1,0 +1,29 @@
+# DendriteToken #n minted
+    # DendriteGenerator Contract recieves seed and intializes automated growth algo
+    
+    # propt shutter to open
+
+    # Pull substrate under microscope within growth chamber
+
+    # Begin Raster Scan using Computer Vision x Detectron2
+
+        # If Neural Network identifies usable seed
+            # Center seed under chilled air
+            # Initiate automated growth algo (AGA)
+
+        # else
+            # return substrate to loading zone next to shutter
+            # heat substrate to -6ºC
+            # cool substrate to -12.2ºC
+            # restart from Line 3
+
+    # After completion of Random growth time and conditions take final snapshot 
+
+    # Begin Auction Timer
+
+    # Bake machine and restart
+
+
+
+
+
